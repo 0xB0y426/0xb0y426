@@ -26,6 +26,8 @@ Here you'll find my work, skills, and contributions in the fields of software de
 
 - **Cybersecurity**  
   Penetration testing, vulnerability research, secure coding, and ethical hacking to ensure software integrity and safety.
+
+  Discord: rxidboy
   
 ---
 
