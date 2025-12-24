@@ -10,22 +10,9 @@
   <br><br>
 
   <pre>
-Raidboy
+Magnetron
 
-Welcome to Raidboy's official GitHub repository!  
-Here you'll find my work, skills, and contributions in the fields of software development, operating systems, cybersecurity, and more.
-
----
-
-🛠️  Skills & Expertise
-
-Programming Languages:
-- C/C++ – High-performance programming, systems-level development, and embedded systems.
-- Assembly (x86_64) – Low-level programming, optimization, and reverse engineering.
-- Python – Scripting, automation, penetration testing, and security tools.
-- Java – Object-oriented programming for cross-platform applications and server-side development.
-
-Discord: rxidboy
+I like C/C++ and Assembly x86
   </pre>
   
   <br><br>
