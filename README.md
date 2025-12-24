@@ -6,7 +6,7 @@
 
 <h2 align="center"> 𝐈. About me </h2>
 <div align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.fd9qPo2qwUklvA2-cnkSygHaKd%26pid%3DApi&f=1&ipt=f630162a68155746e15b945d8218983397c366f6dca93a81176c7534c7596ae8&ipo=images" width="25%" align="right" />
+  <img src="https://wallpaper.forfun.com/fetch/8a/8af16b056ea2b736e30855cd28759ddd.jpeg" width="25%" align="right" />
   <br><br>
 
   <pre>
