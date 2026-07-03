@@ -3,7 +3,7 @@
 <h2 align="center">About Me</h2>
 
 <div align="center">
-  <img src="https://wallpaper.forfun.com/fetch/8a/8af16b056ea2b736e30855cd28759ddd.jpeg" width="25%" align="right"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.ut-iJJ532_FlQN7BPR8jYAHaHC%3Fpid%3DApi&f=1&ipt=cf38bc90a96657d5e0157c62bfdf1e496d4f312d63566c82feccecd1358ae63a&ipo=images" width="25%" align="right"/>
 
   <pre>
 Magnetron
